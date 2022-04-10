@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CampAsAChamp/Sleep-Tracker">
+  <a href="https://github.com/CampAsAChamp/SpotifyPP">
     <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,11 +18,11 @@
     </li>
     <br />
     <br />
-    <a href="https://github.com/CampAsAChamp/Sleep-Tracker">View Demo</a>
+    <a href="https://github.com/CampAsAChamp/SpotifyPP">View Demo</a>
     ·
-    <a href="https://github.com/CampAsAChamp/Sleep-Tracker/issues">Report Bug</a>
+    <a href="https://github.com/CampAsAChamp/SpotifyPP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CampAsAChamp/Sleep-Tracker/issues">Request Feature</a>
+    <a href="https://github.com/CampAsAChamp/SpotifyPP/issues">Request Feature</a>
   </p>
 </div>
 
@@ -97,7 +97,7 @@
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/CampAsAChamp/Sleep-Tracker.git
+    git clone https://github.com/CampAsAChamp/SpotifyPP.git
     ```
 2. Download and install Angular CLI
    ```sh
