@@ -10,7 +10,12 @@
 <h3 align="center">Spotify++</h3>
 
   <p align="center">
-    Sleep Tracker app for both iOS and Android built using Ionic
+    <li> 
+    Spotify browser using the Spotify Web API with custom front end interface built from the ground up using Spicetify to inject custom CSS and Javascript into the Spotify client. 
+    </li>
+    <li>
+    Adds additional track information the user normally doesn't have access to such as dance-ability, energy, acousticness, instrumentalness, and liveness provided by the track endpoint.
+    </li>
     <br />
     <br />
     <a href="https://github.com/CampAsAChamp/Sleep-Tracker">View Demo</a>
