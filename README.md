@@ -65,9 +65,7 @@
 
 ### Built With
 
-* [Node.js](https://nodejs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Angular](https://angular.io/)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,ts,html,css)](https://skillicons.dev)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
